@@ -18,7 +18,7 @@ export default function Home() {
           Experimenta con diferentes condiciones y observa cómo crece tu maíz virtual
         </p>
         <Button className="text-lg" color="primary">
-          <Link href="/simulator">
+          <Link href="/simulator-v2">
             Simular Ahora
           </Link>
         </Button>
